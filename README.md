@@ -31,7 +31,7 @@ This is a simple and elegant web app that displays a new motivational quote ever
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/quote-generator.git
+git clone https://github.com/your-username/quote_generator.git
 ```
 
 ### 2. Open the project
